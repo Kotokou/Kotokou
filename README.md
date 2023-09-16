@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dav Kotokou</h1>
 <h3 align="center">Flutter Developer From Togo 🇹🇬</h3>
 
-- 🌱 I’m currently learning **Dart & Flutter etc...**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Kotokou](https://github.com/Kotokou)
 
 - 💬 Ask me about **Dart & Flutter**
-
-- 📫 How to reach me **www.linkedin.com/in/papdav**
-
-- 📄 Know about my experiences [Flutter middle developper (2 - 3) years](Flutter middle developper (2 - 3) years)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
