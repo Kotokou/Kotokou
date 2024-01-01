@@ -1,4 +1,4 @@
-![](assets/header_up.svg)
+<!-- [](assets/header_up.svg) -->
 
 <!-- Kotokou Repo Contributions -->
 <!-- <p align="center">
